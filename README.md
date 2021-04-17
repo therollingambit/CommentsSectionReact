@@ -1,3 +1,3 @@
 A sample social media comments section made with React
 
-![Screenshot] (commentImage.png)
+![Screenshot] (https://github.com/therollingambit/CommentsSectionReact/blob/master/commentImage.png)
